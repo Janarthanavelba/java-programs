@@ -1,4 +1,4 @@
-/*Write a program to find the given String is Anagram or Not */
+/*Write a program to find the given String is Anagram or Not an Anagram */
 
 import java.util.*;
 class Anagram
